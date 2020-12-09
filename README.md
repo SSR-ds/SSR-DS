@@ -29,3 +29,6 @@
 - :e-mail: sai.raghavendra1995@gmail.com
 
 - ⚡ Fun fact: The one who always thinks of using technical business (data-related) terms in day today talks of life.
+
+
+https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
