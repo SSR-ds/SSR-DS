@@ -32,3 +32,6 @@
 
 
 [![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=ssr-ds&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ssr-ds/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssr-ds)](https://github.com/ssr-ds/github-readme-stats)
