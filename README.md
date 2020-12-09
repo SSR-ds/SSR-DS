@@ -31,7 +31,7 @@
 - ⚡ Fun fact: The one who always thinks of using technical business (data-related) terms in day today talks of life.
 
 
-![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=ssr-dsa&hide=contribs,prs)
+![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=ssr-ds&hide=contribs,prs)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssr-ds)](https://github.com/ssr-ds/github-readme-stats)
