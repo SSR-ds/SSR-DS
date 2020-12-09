@@ -22,7 +22,7 @@
 
 - :woman_factory_worker: 5 Months Experience as a Business Analyst Intern at Trusted Medical Centers (Richardson, Dallas).
 
-- 💬 Ask me about anything related to maths, programming, debugging and professional speaking
+- 💬 Ask me about anything related to maths, programming, debugging and professional speaking.
 
 - 📫 How to reach me: https://www.linkedin.com/in/ssr95/
 
