@@ -20,7 +20,7 @@
 
 - :man_office_worker: Worked at NTT DATA as Software Development Analyst from August 2017 - July 2019 (Bangalore, India).
 
-- :woman_factory_worker: 5 Months Experience as a Business Analyst Intern at Trusted Medical Centers (Hurst, Dallas).
+- :man_factory_worker: 5 Months Experience as a Business Analyst Intern at Trusted Medical Centers (Hurst, Dallas).
 
 - 💬 Ask me about anything related to maths, programming, debugging and professional speaking.
 
@@ -34,4 +34,4 @@
 ![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=ssr-ds&hide=contribs,prs&theme=blue)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssr-ds&layout=compact)](https://github.com/ssr-ds/github-readme-stats)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssr-ds&layout=compact)](https://github.com/ssr-ds/github-readme-stats)#
