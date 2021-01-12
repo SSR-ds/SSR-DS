@@ -16,7 +16,7 @@
 
 - :bowtie: Lean Six Sigma certified professional with an ability to manage and collaborate and work with cross-functional teams.
 
-- :running_man: Always addicted to learning new things related to Machine Learning, Deep Learning, NLP, and interested in growing my git profile.
+- :running_man: Always addicted to learning new things related to Machine Learning, Deep Learning, NLP, and interested in growing my git profile by accumulation of my learnings.
 
 - :man_office_worker: Worked at NTT DATA as Software Development Analyst from August 2017 - July 2019 (Bangalore, India).
 
