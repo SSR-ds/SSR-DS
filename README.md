@@ -26,7 +26,7 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/ssr95/
 
-- :e-mail: sai.raghavendra1995@gmail.com
+- :e-mail: sairaghavendra95@gmail.com
 
 - ⚡ Fun fact: The one who always thinks of using technical business (data-related) terms in day today talks of life.
 
